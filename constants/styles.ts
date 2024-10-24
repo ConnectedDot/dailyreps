@@ -6,7 +6,9 @@ export const styles = StyleSheet.create({
 		borderWidth: 1,
 		padding: 10,
 		borderRadius: 6,
-		borderColor: "rgba(0, 0, 0, 0.11)",
+		// borderColor: "rgba(0, 0, 0, 0.11)",
+		// boxShadow: '1px 1px 5px rgba(0, 0, 0, 0.07)',
+
 		width: "100%", // Modified width to be full
 	},
 	screen: {
